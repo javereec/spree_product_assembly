@@ -1,3 +1,4 @@
+<!-- disabled -->
 <!-- insert_after '[data-hook="product_description"] div[itemprop="description"]' -->
 <% if @product.parts.any? %>
 <ul id="products" class="inline product-listing" data-hook>
